@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694661321906",
+    "project_id": "alliancemobile-98690",
+    "storage_bucket": "alliancemobile-98690.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694661321906:android:82c9b901daa5f6f6b925ab",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2Tif4dG9erfUM-oGIvlnJ545Y0cBs4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

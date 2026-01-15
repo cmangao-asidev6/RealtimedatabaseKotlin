@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RealtimedatabaseKotlin</string>
+
+    <!-- Headings -->
+    <string name="heading_one">Register and Connect</string>
+    <string name="heading_two">Real-Time Registration Updates</string>
+    <string name="heading_three">See Who\'s Registered</string>
+    <string name="heading_fourth">Discover Nearby Registrations</string>
+
+    <!-- Description -->
+    <string name="desc_one">Easily register at different locations and see who else has signed up nearby.</string>
+    <string name="desc_two">Stay updated with real-time notifications whenever a new registration occurs at your location.</string>
+    <string name="desc_three">View a list of people who have registered at the same place and connect with them.</string>
+    <string name="desc_fourth">Find out where people are registering around you and join the community.</string>
+
+</resources>
